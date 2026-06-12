@@ -219,11 +219,11 @@ Full-stack job application tracking system providing centralized dashboard for m
 
 <div align="center">
 
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunbp08&show_icons=true&theme=midnight-purple&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=A78BFA&border_color=7C3AED&include_all_commits=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats-varunbp08.vercel.app/api?username=varunbp08&show_icons=true&theme=midnight-purple&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=A78BFA&border_color=7C3AED)](https://github.com/varunbp08)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varunbp08&theme=midnight-purple&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=7C3AED&currStreakNum=A78BFA&sideNums=A78BFA&currStreakLabel=7C3AED&sideLabels=7C3AED)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=varunbp08&theme=midnight-purple&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=7C3AED&currStreakNum=A78BFA&sideNums=A78BFA&currStreakLabel=7C3AED&sideLabels=7C3AED)](https://github.com/varunbp08)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunbp08&layout=compact&theme=midnight-purple&bg_color=0D1117&title_color=A78BFA&text_color=A78BFA&border_color=7C3AED)
+[![Top Languages](https://github-readme-stats-varunbp08.vercel.app/api/top-langs/?username=varunbp08&layout=compact&theme=midnight-purple&bg_color=0D1117&title_color=A78BFA&text_color=A78BFA&border_color=7C3AED)](https://github.com/varunbp08)
 
 </div>
 
