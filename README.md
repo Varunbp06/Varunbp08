@@ -243,7 +243,7 @@ Full-stack job application tracking system providing centralized dashboard for m
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varunbp08&bg_color=0D1117&color=A78BFA&line=7C3AED&point=7C3AED&area_color=6D28D9&area=true&hide_border=true)
+![Activity Graph](https://github-contribution-activity-graph.vercel.app/graph?username=varunbp08&theme=midnight-purple&bg_color=0D1117&color=A78BFA&line=7C3AED&point=7C3AED&hide_border=true)
 
 </div>
 
